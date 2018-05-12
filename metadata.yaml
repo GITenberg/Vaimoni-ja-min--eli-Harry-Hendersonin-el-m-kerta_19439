@@ -1,0 +1,39 @@
+_repo: Vaimoni-ja-min--eli-Harry-Hendersonin-el-m-kerta_19439
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Sandelin, Hj.
+    birthdate: 1852
+    deathdate: 1877
+    gutenberg_agent_id: '8673'
+    url: http://www.gutenberg.org/2009/agents/8673
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stowe, Harriet Beecher
+    aliases:
+    - Stowe, Harriet Elizabeth Beecher
+    - Stowe, H. B. (Harriet Beecher)
+    - Crowfield, Christopher
+    birthdate: 1811
+    deathdate: 1896
+    gutenberg_agent_id: '115'
+    url: http://www.gutenberg.org/2009/agents/115
+    wikipedia: http://en.wikipedia.org/wiki/Harriet_Beecher_Stowe
+description: 'Translation of: My Wife and I: or, Harry Henderson''s History'
+gutenberg_issued: '2006-10-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19439'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Women -- Social and moral questions -- Fiction'
+- !lcsh 'New York (N.Y.) -- Social life and customs -- 19th century -- Fiction'
+title: Vaimoni ja minä eli Harry Hendersonin elämäkerta
+url: http://www.gutenberg.org/ebooks/19439
