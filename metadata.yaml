@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/115
     wikipedia: http://en.wikipedia.org/wiki/Harriet_Beecher_Stowe
 description: 'Translation of: My Wife and I: or, Harry Henderson''s History'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19439#Vaimoni-ja-min--eli-Harry-Hendersonin-el-m-kerta
 gutenberg_issued: '2006-10-02'
 gutenberg_type: Text
 identifiers:
